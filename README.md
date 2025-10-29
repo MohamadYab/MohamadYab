@@ -1,9 +1,9 @@
 # 👋 Mohamad Yabroudi
 I engineer websites and web apps
-<br>
+</br>
 ## 👨‍💻 About Me
 I’m a Full-stack Web Developer with 3+ years of experience creating modern, responsive, and user-focused web applications. I’m passionate about transforming complex ideas into smooth, functional interfaces that help businesses grow. Whether I’m working solo or collaborating in a team, I take ownership, communicate clearly, and always look for ways to improve.
-<br>
+</br>
 ## 🧠 Skills
 - **Technical:**
   - **Front-End:** JavaScript | TypeScript | React | Vue | HTML | CSS | React Native
@@ -12,9 +12,9 @@ I’m a Full-stack Web Developer with 3+ years of experience creating modern, re
   - **Tools:** Git | npm | Vite | Webpack | VS Code | Jira
 - **Soft Skills:**
   - Problem-Solving | Communication | Team Collaboration | Continuous Learning
-<br>
+</br>
 ## 💼 Career Goals
 I’m seeking opportunities where I can create impactful digital experiences, learn continuously, and expand my knowledge to achieve the highest levels of expertise.
-<br>
+</br>
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/m-yabroudi) | [Email](mailto:mohamadyabroudi.business@gmail.com)
